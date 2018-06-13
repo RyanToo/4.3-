@@ -7,7 +7,7 @@
 
 	$dsn = 'mysql:dbname=zubkov;host=localhost;charset=utf8';
 	$user = 'zubkov';
-	$password = 'neto1579';
+	$password = 'neto155679';
 	$taskStatus = 0;
 	$description = '';
 	$infoText = '';
